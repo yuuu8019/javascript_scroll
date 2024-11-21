@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+body {
+  text-align: center;
+}
+
+h1 {
+  margin: 50vh 0;
+}
+
+img {
+  max-width: 100%;
+  margin: 20vh 0;
+}
